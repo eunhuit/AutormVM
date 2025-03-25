@@ -1,7 +1,7 @@
 # VMware VM 자동 삭제 매크로 프로젝트
 
 ![Python](https://img.shields.io/badge/Python-3.12%2B-blue?logo=python)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-Apache%202.0-green)
 
 VMware 가상 머신을 자동으로 삭제하는 GUI 기반 매크로 프로그램
 
@@ -62,8 +62,7 @@ pyautogui.keyUp('alt')
 pyautogui.press('enter') # 삭제 확인
 ```
 
-## 📜 라이센스
- - 자유로운 사용/수정/배포 허용 (단, 본 저작권 표시 유지 필수)
+## 📄 라이센스
+Apache License 2.0  
 
-> ⚠️ 본 프로그램은 교육 목적으로 제작되었습니다. 실제 사용 시 발생하는 모든 책임은 사용자에게 있습니다.
 
