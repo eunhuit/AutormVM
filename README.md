@@ -1,6 +1,6 @@
 # VMware VM 자동 삭제 매크로 프로젝트
 
-![Python](https://img.shields.io/badge/Python-3.7%2B-blue?logo=python)
+![Python](https://img.shields.io/badge/Python-3.12%2B-blue?logo=python)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 VMware 가상 머신을 자동으로 삭제하는 GUI 기반 매크로 프로그램
